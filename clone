@@ -1,0 +1,3 @@
+$mkdir mlbookexamples
+$cd mlbookexamples
+$git clone https://github.com/jasebell/mlbook2ndedition.git
